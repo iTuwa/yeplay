@@ -1,0 +1,1 @@
+This folder contains static assets moved from the previous project structure. Files are referenced by their original relative paths preserved at project root for compatibility via Next.js public folder mounting.
